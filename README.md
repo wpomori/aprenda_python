@@ -12,6 +12,9 @@ pip install jupyter
 
 #### Iniciar notebook:`  
 ```bash
+cd ~/
+git clone https://github.com/wpomori/aprenda_python.git
+cd ~/aprenda_python
 jupyter notebook  
 ```
 
