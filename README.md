@@ -27,4 +27,4 @@ jupyter notebook
 
 
 #### Saindo do Jupiter Notebook  
-Para sair do Jupiter Notebook, feche as abas referentes aos Jupters Notebooks abertos em seu navegador. A seguir, no terminal
+Para sair do Jupiter Notebook, feche as abas referentes aos Jupiters Notebooks abertos em seu navegador. A seguir, no terminal
