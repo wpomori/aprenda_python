@@ -6,7 +6,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-
 
 ```bash
 python3 -m venv venv  
-source venv/bin/activate (para desativar o ambiente virtual digite deactivate)  
+source venv/bin/activate ## (para desativar o ambiente virtual digite deactivate)  
 pip install jupyter  
 ```
 
