@@ -3,7 +3,7 @@ O objetivo deste material é disponibilizar dicas sobre programação utlizando 
 
 
 #### Python3.8:  
-Caso tenha alguma dificuldade, basta consultar este link para instalar o [Jupiter Notebook](https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-20-04-and-connect-via-ssh-tunneling-pt) em seu computador. Este link, também ensina como configurar de forma adequada o ambeinte virtual, bem como instalar a versão do Python de forma correta caso não a possua em seu sistema Ubuntu 20.04 LTS.  
+Caso tenha alguma dificuldade, basta consultar este link para instalar o [Jupiter Notebook](https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-20-04-and-connect-via-ssh-tunneling-pt) em seu computador. Este link, também ensina como configurar de forma adequada o ambiente virtual, bem como instalar a versão do Python de forma correta caso não a possua em seu sistema Ubuntu 20.04 LTS.  
 
 
 #### Abrindo seu Jupiter Notebook  
