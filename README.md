@@ -8,7 +8,6 @@ O objetivo deste material é disponibilizar Jupiter Notebooks com dicas sobre pr
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-pine-omori-81b3bb10b/" />
 </a>
 
-[![Linkdin](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)]
 
 
 #### Python3.8:  
