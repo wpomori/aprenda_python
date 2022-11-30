@@ -4,8 +4,8 @@
 O objetivo deste material é disponibilizar Jupiter Notebooks com dicas sobre programação utilizando Python. Além disto, fontes de consulta como livros e vídeos utilizadas como inspiração para a produção destes materiais serão informadas ao longo dos Notebooks. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador.  
 
 #### Redes sociais
-<a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-pine-omori-81b3bb10b/" />
+<a href="https://www.linkedin.com/in/wellington-pine-omori-81b3bb10b" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" />
 </a>
 
 
