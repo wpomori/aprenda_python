@@ -1,7 +1,7 @@
 <h1 align="center">
-📄<br>Projeto pessoal Aprenda Python
+📄<br>Projeto pessoal (com parceria) Aprenda Python
 </h1>
-O objetivo deste material é disponibilizar Jupiter Notebooks com dicas sobre programação utilizando Python. Além disto, fontes de consulta como livros e vídeos utilizadas como inspiração para a produção destes materiais serão informadas ao longo dos Notebooks. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador.  
+O objetivo deste material é disponibilizar Jupiter Notebooks com dicas sobre programação utilizando Python. Além disto, fontes de consulta como livros e vídeos utilizadas como inspiração para a produção destes materiais serão informadas ao longo dos Notebooks. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador. Obrigado pela ajuda Állan Pires da Silva (PiresAllanSilva)  
 
 #### Redes sociais
 <a href="https://www.linkedin.com/in/wellington-pine-omori-81b3bb10b" alt="Linkedin">
