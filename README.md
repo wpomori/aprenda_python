@@ -1,4 +1,6 @@
-# aprenda_python  
+<h1 align="center">
+📄<br>README Template
+</h1>
 O objetivo deste material é disponibilizar dicas sobre programação utlizando Python, utilizando Jupiter Notebook. Além disto, fontes de consulta de materiais como livros e vídeos, sempre tem fontes informadas nos documentos. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador.  
 
 
