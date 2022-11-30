@@ -1,7 +1,7 @@
 <h1 align="center">
-📄<br>README Template
+📄<br>Projeto pessoal Aprenda Python
 </h1>
-O objetivo deste material é disponibilizar dicas sobre programação utlizando Python, utilizando Jupiter Notebook. Além disto, fontes de consulta de materiais como livros e vídeos, sempre tem fontes informadas nos documentos. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador.  
+O objetivo deste material é disponibilizar Jupiter Notebooks com dicas sobre programação utilizando Python. Além disto, fontes de consulta como livros e vídeos utilizadas como inspiração para a produção destes materiais serão informadas ao longo dos Notebooks. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador.  
 
 
 #### Python3.8:  
