@@ -52,6 +52,6 @@ Lógica de Programação|<justify>Curso em vídeo: Playlist Curso de Lógica de 
 Pandas|<justify>Curso de pandas para manipulação de dados a partir do básico. [Link](encurtador.com.br/mpzU8)|Videoaulas|Não|Gratuito
 
 
-## 🍜 Licença
+#### 🍜 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
