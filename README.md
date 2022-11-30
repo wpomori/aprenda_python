@@ -3,6 +3,9 @@
 </h1>
 O objetivo deste material é disponibilizar Jupiter Notebooks com dicas sobre programação utilizando Python. Além disto, fontes de consulta como livros e vídeos utilizadas como inspiração para a produção destes materiais serão informadas ao longo dos Notebooks. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador.  
 
+#### Redes sociais
+[![Linkdin[https://www.linkedin.com/in/wellington-pine-omori-81b3bb10b/]]
+
 
 #### Python3.8:  
 Caso tenha alguma dificuldade, basta consultar este link para instalar o [Jupiter Notebook](https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-20-04-and-connect-via-ssh-tunneling-pt) em seu computador. Este link, também ensina como configurar de forma adequada o ambiente virtual, bem como instalar a versão do Python de forma correta caso não a possua em seu sistema Ubuntu 20.04 LTS.  
