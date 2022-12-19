@@ -1,5 +1,15 @@
-# aprenda_python  
-O objetivo deste material é disponibilizar dicas sobre programação utlizando Python, utilizando Jupiter Notebook. Além disto, fontes de consulta de materiais como livros e vídeos, sempre tem fontes informadas nos documentos. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador.  
+<h1 align="center">
+📄<br>Projeto pessoal (com parceria) Aprenda Python
+</h1>
+O objetivo deste material é disponibilizar Jupiter Notebooks com dicas sobre programação utilizando Python. Além disto, fontes de consulta como livros e vídeos utilizadas como inspiração para a produção destes materiais serão informadas ao longo dos Notebooks. Espero que este material sirva para o aprendizado de pelo menos uma pessoa, e que possa ser algo transformador. Obrigado pela ajuda Állan Pires da Silva (PiresAllanSilva)  
+
+#### Redes sociais
+<a href="https://www.linkedin.com/in/wellington-pine-omori-81b3bb10b" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-pine-omori-81b3bb10b" />
+</a>
+<a href="[#](https://www.instagram.com/wellingtonpine/)" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wellingtonpine" />
+</a>
 
 
 #### Python3.8:  
@@ -28,3 +38,24 @@ jupyter notebook
 
 #### Saindo do Jupiter Notebook  
 Para sair do Jupiter Notebook, feche as abas referentes aos Jupiters Notebooks abertos em seu navegador. A seguir, no terminal de onde executou seu Jupiter Notebook, aperte ao mesmo tempo Ctrl + C, a seguir, quando perguntado, aperte Y.  
+
+
+
+#### Materiais de apoio para estudo
+
+<p>Este documento conta com links importantes para o estudo de Python e suas bibliotecas.</p>
+
+
+Tema|<center>Descrição do conteúdo|<center>Tipo|<center>Certificado|<center>Custo
+:------------------:|----------------------------|:------------:|:---:|:-----------------:
+Lógica de Programação|<justify>Curso em vídeo: Playlist Curso de Lógica de Programação. [Link](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)|Vídeoaulas|Sim, [acesse e se cadastre aqui.](https://www.cursoemvideo.com/)|Curso é gratuito, apenas o certificado que não.
+Pandas|<justify>Curso de pandas para manipulação de dados a partir do básico. [Link](https://youtube.com/playlist?list=PL4OAe-tL47sa1McMctk5pdPd5eTAp3drk)|Videoaulas|Não|Gratuito
+Python|<justify>Python Full Crouse. [Link](https://www.youtube.com/watch?v=XKHEtdqhLK8&ab_channel=BroCode)|Videoaulas|Não|Gratuito
+Bash|<justify>Curso básico de programação em Bash. [Link](https://www.youtube.com/watch?v=ZM--I3NJ2jY&list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7&ab_channel=debxp)|Videoaulas|Não|Gratuito
+Vim|<justify>Vim Tutorial for Beginners. [Link](https://www.youtube.com/watch?v=RZ4p-saaQkc&ab_channel=freeCodeCamp.org)|Videoaulas|Não|Gratuito
+
+
+
+#### 🍜 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
