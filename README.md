@@ -55,7 +55,6 @@ Bash|<justify>Curso básico de programação em Bash. [Link](https://www.youtube
 Vim|<justify>Vim Tutorial for Beginners. [Link](https://www.youtube.com/watch?v=RZ4p-saaQkc&ab_channel=freeCodeCamp.org)|Videoaulas|Não|Gratuito
 
 
-
 #### 🍜 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
