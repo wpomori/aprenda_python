@@ -50,6 +50,9 @@ Tema|<center>Descrição do conteúdo|<center>Tipo|<center>Certificado|<center>C
 :------------------:|----------------------------|:------------:|:---:|:-----------------:
 Lógica de Programação|<justify>Curso em vídeo: Playlist Curso de Lógica de Programação. [Link](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)|Vídeoaulas|Sim, [acesse e se cadastre aqui.](https://www.cursoemvideo.com/)|Curso é gratuito, apenas o certificado que não.
 Pandas|<justify>Curso de pandas para manipulação de dados a partir do básico. [Link](https://youtube.com/playlist?list=PL4OAe-tL47sa1McMctk5pdPd5eTAp3drk)|Videoaulas|Não|Gratuito
+Python|<justify>Python Full Crouse. [Link](https://www.youtube.com/watch?v=XKHEtdqhLK8&ab_channel=BroCode)|Videoaulas|Não|Gratuito
+Bash|<justify>Curso básico de programação em Bash. [Link](https://www.youtube.com/watch?v=ZM--I3NJ2jY&list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7&ab_channel=debxp)|Videoaulas|Não|Gratuito
+Vim|<justify>Vim Tutorial for Beginners. [Link](https://www.youtube.com/watch?v=RZ4p-saaQkc&ab_channel=freeCodeCamp.org)|Videoaulas|Não|Gratuito
 
 
 #### 🍜 Licença
